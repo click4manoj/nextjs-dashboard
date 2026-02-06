@@ -8,6 +8,7 @@
 out/
 npm-debug.log*
 *.env.local
+*.env
 *.env.example
 .DS_Store
 
